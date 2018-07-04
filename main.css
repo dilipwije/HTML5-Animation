@@ -52,7 +52,12 @@
     right: 9px;
     border-top: 4px solid #a30303;
 }
-
+.face .eye-ball{
+    background: #ffffff;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+}
 .lawbody{
     margin: 0 auto;
     left: 50%;
