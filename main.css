@@ -82,3 +82,22 @@
     background-color: black;
     border-radius: 50% 50% 30px 40px;
 }
+/*Leg section style*/
+
+.legs-section{
+    width: 60px;
+    margin: 0 auto;
+    height: 80px;
+}
+.legs-section .left-leg{
+    width: 15px;
+    height: 80px;
+    float: left;
+    background: #000000;
+}
+.legs-section .right-leg{
+    width: 15px;
+    height: 80px;
+    float: right;
+    background: #000000;
+}
