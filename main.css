@@ -53,6 +53,10 @@
     border-top: 4px solid #a30303;
 }
 .face .eye-ball{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     background: #ffffff;
     width: 3px;
     height: 3px;
